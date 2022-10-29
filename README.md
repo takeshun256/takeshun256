@@ -5,7 +5,7 @@
 
 - 💓 I love **Python, MATLAB**
 
-- 🌱 I’m currently learning **Docker, PyTorch**
+- 🌱 I’m currently learning **Docker, PyTorch, Go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
