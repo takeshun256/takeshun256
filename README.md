@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm takeshun</h1>
-<h3 align="center">A student studying Data Science living in Tokyo</h3>
+<h3 align="center">A student studying Data Science in Tokyo.</h3>
 
-- 🔭 I’m currently working as **data science programmer**
+- 🔭 CCurrently, I work as a data science programmer.
 
-- 💓 I love **Python, MATLAB**
+- 💓 My favorite languages are Python and MATLAB.
 
-- 🌱 I’m currently learning **Docker, PyTorch, Go**
+- 🌱 I’m currently learning Docker, PyTorch, and Go.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
