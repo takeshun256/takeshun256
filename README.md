@@ -3,7 +3,7 @@
 
 - 🔭 Currently, I work as a **data science programmer**.
 
-- 💓 My favorite languages are **Python and MATLAB**.
+- 💓 My favorite languages are **Python and Go**.
 
 - 🌱 I’m currently learning **Docker, PyTorch, and Go**.
 
