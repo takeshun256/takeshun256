@@ -5,7 +5,7 @@
 
 - 💓 My favorite languages are **Python and Go**.
 
-- 🌱 I’m currently learning **Docker, PyTorch, C++ and Go**.
+- 🌱 I’m currently learning **PyTorch and MLOps**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
